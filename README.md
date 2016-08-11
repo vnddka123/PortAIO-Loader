@@ -19,7 +19,9 @@ I'd like to welcome everyone to PortAIO v2, a complete reboot of PortAIO. We too
 ---
 
 ## - How to report Bugs/Suggestions/Requests/Comments
-1. Issues are currently disabled as we go into a major overhaul of certain things (mainly the common).
+1. Make a github account
+2. Go to https://github.com/berbb/PortAIO-Loader/issues
+3. Make your issue.
 
 ##### Don't buy ported addons, ask via an issue and we'll do it for free.
 
