@@ -13,7 +13,7 @@ I'd like to welcome everyone to PortAIO v2, a complete reboot of PortAIO. We too
 ---
 
 ## - Installation Instructions (This may change in the future)
-#### You need to download the dlls : https://github.com/berbb/PortAIO-Updater/releases/
+#### 1. You need to download the dlls @ : https://github.com/berbb/PortAIO-Updater/releases/
 #### 2. Install PortAIO like any other addon.
 
 ---
