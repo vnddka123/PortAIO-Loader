@@ -13,8 +13,7 @@ I'd like to welcome everyone to PortAIO v2, a complete reboot of PortAIO. We too
 ---
 
 ## - Installation Instructions (This may change in the future)
-#### 1. Install and make sure PortAIO.Common is installed. The link for PortAIO.Common is here : https://github.com/berbb/PortAIO-Common
-#### 1a. If you get compile errors on PortAIO.Common go here : https://www.elobuddy.net/topic/21274-installing-ms-build-tools-140/
+#### You need to download the dlls : https://github.com/berbb/PortAIO-Updater/releases/
 #### 2. Install PortAIO like any other addon.
 
 ---
