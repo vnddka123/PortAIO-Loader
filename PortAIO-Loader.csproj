@@ -38,19 +38,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EloBuddy">
-      <HintPath>..\..\PortAIO-v2\bin\Debug\EloBuddy.dll</HintPath>
+      <HintPath>..\PortAIO-Common\bin\Debug\EloBuddy.dll</HintPath>
     </Reference>
     <Reference Include="EloBuddy.Sandbox">
-      <HintPath>..\..\PortAIO-v2\bin\Debug\EloBuddy.Sandbox.dll</HintPath>
+      <HintPath>..\PortAIO-Common\bin\Debug\EloBuddy.Sandbox.dll</HintPath>
     </Reference>
     <Reference Include="EloBuddy.SDK">
-      <HintPath>..\..\PortAIO-v2\bin\Debug\EloBuddy.SDK.dll</HintPath>
+      <HintPath>..\PortAIO-Common\bin\Debug\EloBuddy.SDK.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\PortAIO-v2\bin\Debug\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\PortAIO-Common\bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PortAIO">
-      <HintPath>..\..\PortAIO-v2\bin\Debug\PortAIO.dll</HintPath>
+      <HintPath>..\PortAIO-v2\bin\Debug\PortAIO.dll</HintPath>
+    </Reference>
+    <Reference Include="PortAIO.Common">
+      <HintPath>..\PortAIO-Common\bin\Debug\PortAIO.Common.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX, Version=2.6.2.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
