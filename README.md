@@ -1,6 +1,6 @@
 # Welcome to PortAIO v2!
 
-**ANNOUNCEMENT 9/4/16** : PortAIO is still being updated! The only downside is that school started for me. The only time I have to update is on the weekends but even then I may have an essay or something to do. Basically what I'm saying is, school is my first priority. Hope most you understand!
+**ANNOUNCEMENT 9/4/16** : PortAIO is still being updated! The only downside is that school started for me. The only time I have to update is on the weekends but even then I may have an essay or something to do. Basically what I'm saying is, school is my first priority. Hope most of you understand!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZSQBFWWV9WEN)
 
