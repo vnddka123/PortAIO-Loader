@@ -1,6 +1,6 @@
 # Welcome to PortAIO v2!
 
-**ANNOUNCEMENT 9/4/16** : PortAIO is still being updated! The only downside is that school started for me. The only time I have to update is on the weekends but even then I may have an essay or something to do. Basically what I'm saying is, school is my first priority. Hope most of you understand!
+**ANNOUNCEMENT 9/28/16** : PortAIO is still being updated! The only downside is that school started for me. The only time I have to update is on the weekends but even then I may have an essay or something to do. Basically what I'm saying is, school is my first priority. Hope most of you understand!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZSQBFWWV9WEN)
 
@@ -11,8 +11,6 @@ I'd like to welcome everyone to PortAIO v2, a complete reboot of PortAIO. We too
 
 ###### - Berb : Creator of PortAIO, he basically maintains everything (porting, bug fixing, managing discord/git)
 ###### - CTTBot : A PortAIO dev that developed/ported the common that we use today, without him none of PortAIO v2 would be possible.
-###### - SidaRevamped : Active Supporter and bug fixer
-###### - Muse30 : Currenlty MIA (Come back plsss we miss you)
 
 ---
 
@@ -21,18 +19,16 @@ I'd like to welcome everyone to PortAIO v2, a complete reboot of PortAIO. We too
 2. Go to https://github.com/berbb/PortAIO-Loader/issues
 3. Make your issue.
 
-##### Don't buy ported addons, ask via an issue and we'll do it for free.
-
 ---
 
 ## - Frequently Asked Questions :
 1. What is a port? : A port is code used from another script from a completely different scripting platform and making it compatible in our case, EloBuddy.
 
-2. Does PortAIO support all the champions? : As of 6.17 we support every champion up to Kled.
+2. Does PortAIO support all the champions? : As of 6.19 we support every champion up to Kled.
 
 3. Will PortAIO ever have BoL scripts? : As of now no, converting code from LUA to C# is fairly difficult but its currently not any where on our agenda.
 
-4. What is a dual-port? : The dual-port feature allows for you to change the port you are using for your champion/utility, as of 6.17 patch the dual-port feature supports all champions except kled & taliyah and 4 utility scripts.
+4. What is a dual-port? : The dual-port feature allows for you to change the port you are using for your champion/utility, as of 6.19 the dual-port feature supports all champions except kled and 4 utility scripts.
 
 5. Why is PortAIO not on EB? : The rules forbid ported addons on their forums but when I started this project the rule wasn't present, what does that tell you?
 
